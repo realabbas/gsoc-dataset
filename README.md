@@ -6,4 +6,4 @@ This data can be used to analyse the upcoming organisations and their stats.
 
 **Many Cool stuffs can be done using this data.**
 
-- PS *Just Scrapped!*
+- PS *Just Scrapped!* ⛈ 🌩
