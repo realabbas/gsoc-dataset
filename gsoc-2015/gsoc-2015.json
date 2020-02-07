@@ -1,0 +1,672 @@
+[
+  {
+    "organization": [
+      "52°North Initiative for Geospatial Open Source Software GmbH"
+    ]
+  },
+  {
+    "organization": [
+      "Africa Soil Information Service"
+    ]
+  },
+  {
+    "organization": [
+      "Apache Software Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "ASCEND"
+    ]
+  },
+  {
+    "organization": [
+      "BeagleBoard.org"
+    ]
+  },
+  {
+    "organization": [
+      "BEAM Community"
+    ]
+  },
+  {
+    "organization": [
+      "Bika Open Source LIMS Collective"
+    ]
+  },
+  {
+    "organization": [
+      "Biomedical Informatics, Emory University"
+    ]
+  },
+  {
+    "organization": [
+      "Boost C++ Libraries"
+    ]
+  },
+  {
+    "organization": [
+      "Boston University / XIA"
+    ]
+  },
+  {
+    "organization": [
+      "BRL-CAD"
+    ]
+  },
+  {
+    "organization": [
+      "Buildbot"
+    ]
+  },
+  {
+    "organization": [
+      "BuildmLearn"
+    ]
+  },
+  {
+    "organization": [
+      "CCExtractor development"
+    ]
+  },
+  {
+    "organization": [
+      "CentOS Project"
+    ]
+  },
+  {
+    "organization": [
+      "Ceph Storage"
+    ]
+  },
+  {
+    "organization": [
+      "CERN SFT"
+    ]
+  },
+  {
+    "organization": [
+      "Cesium Community"
+    ]
+  },
+  {
+    "organization": [
+      "CiviCRM"
+    ]
+  },
+  {
+    "organization": [
+      "Clojure"
+    ]
+  },
+  {
+    "organization": [
+      "CloudCV"
+    ]
+  },
+  {
+    "organization": [
+      "Copyleft Games"
+    ]
+  },
+  {
+    "organization": [
+      "coreboot"
+    ]
+  },
+  {
+    "organization": [
+      "DBpedia & DBpedia Spotlight"
+    ]
+  },
+  {
+    "organization": [
+      "Debian Project"
+    ]
+  },
+  {
+    "organization": [
+      "Department of Biomedical Informatics, Stony Brook University"
+    ]
+  },
+  {
+    "organization": [
+      "Drupal"
+    ]
+  },
+  {
+    "organization": [
+      "Encyclopedia of Life"
+    ]
+  },
+  {
+    "organization": [
+      "FFmpeg"
+    ]
+  },
+  {
+    "organization": [
+      "FOSSASIA"
+    ]
+  },
+  {
+    "organization": [
+      "Foundation for Learning Equality"
+    ]
+  },
+  {
+    "organization": [
+      "FreeBSD"
+    ]
+  },
+  {
+    "organization": [
+      "Ganeti"
+    ]
+  },
+  {
+    "organization": [
+      "GCC - GNU Compiler Collection"
+    ]
+  },
+  {
+    "organization": [
+      "Git"
+    ]
+  },
+  {
+    "organization": [
+      "GitHub"
+    ]
+  },
+  {
+    "organization": [
+      "Global Alliance for Genomics & Health"
+    ]
+  },
+  {
+    "organization": [
+      "GNOME"
+    ]
+  },
+  {
+    "organization": [
+      "GNSS-SDR"
+    ]
+  },
+  {
+    "organization": [
+      "GNU Mailman"
+    ]
+  },
+  {
+    "organization": [
+      "GNU Project"
+    ]
+  },
+  {
+    "organization": [
+      "Google Kubernetes"
+    ]
+  },
+  {
+    "organization": [
+      "haskell.org"
+    ]
+  },
+  {
+    "organization": [
+      "HPCC Systems®"
+    ]
+  },
+  {
+    "organization": [
+      "Institute for Artificial Intelligence"
+    ]
+  },
+  {
+    "organization": [
+      "Interactive Spaces"
+    ]
+  },
+  {
+    "organization": [
+      "International GeoGebra Institute"
+    ]
+  },
+  {
+    "organization": [
+      "International Neuroinformatics Coordinating Facility"
+    ]
+  },
+  {
+    "organization": [
+      "IP-over-P2P Project"
+    ]
+  },
+  {
+    "organization": [
+      "JBoss Community"
+    ]
+  },
+  {
+    "organization": [
+      "JdeRobot - Universidad Rey Juan Carlos"
+    ]
+  },
+  {
+    "organization": [
+      "jQuery Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "KDE"
+    ]
+  },
+  {
+    "organization": [
+      "LabLua"
+    ]
+  },
+  {
+    "organization": [
+      "LibreOffice"
+    ]
+  },
+  {
+    "organization": [
+      "Liquid Galaxy Project"
+    ]
+  },
+  {
+    "organization": [
+      "LLVM Compiler Infrastructure"
+    ]
+  },
+  {
+    "organization": [
+      "lmonade: scientific software distribution"
+    ]
+  },
+  {
+    "organization": [
+      "lowRISC"
+    ]
+  },
+  {
+    "organization": [
+      "MariaDB"
+    ]
+  },
+  {
+    "organization": [
+      "MBDyn, Department of Aerospace Engineering at the Polytechnic University of Milan"
+    ]
+  },
+  {
+    "organization": [
+      "MEDES-IMPS"
+    ]
+  },
+  {
+    "organization": [
+      "MetaBrainz Foundation Inc."
+    ]
+  },
+  {
+    "organization": [
+      "MinnowBoard Project"
+    ]
+  },
+  {
+    "organization": [
+      "MIT Media Lab"
+    ]
+  },
+  {
+    "organization": [
+      "Mono Project"
+    ]
+  },
+  {
+    "organization": [
+      "Moodle"
+    ]
+  },
+  {
+    "organization": [
+      "Network Time Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "Nmap Security Scanner"
+    ]
+  },
+  {
+    "organization": [
+      "NumFOCUS"
+    ]
+  },
+  {
+    "organization": [
+      "OncoBlocks"
+    ]
+  },
+  {
+    "organization": [
+      "Open Source Computer Vision Library (OpenCV)"
+    ]
+  },
+  {
+    "organization": [
+      "Open Source Robotics Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "OpenKeychain (OpenPGP for Android)"
+    ]
+  },
+  {
+    "organization": [
+      "OpenMRS"
+    ]
+  },
+  {
+    "organization": [
+      "OpenStreetMap"
+    ]
+  },
+  {
+    "organization": [
+      "Openwall"
+    ]
+  },
+  {
+    "organization": [
+      "Oregon State University Open Source Lab (OSUOSL)"
+    ]
+  },
+  {
+    "organization": [
+      "OSGeo - Open Source Geospatial Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "P2PSP.org"
+    ]
+  },
+  {
+    "organization": [
+      "PaGMO / PyKEP"
+    ]
+  },
+  {
+    "organization": [
+      "Pencil Code Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "phpMyAdmin"
+    ]
+  },
+  {
+    "organization": [
+      "Pidgin, Finch, and libpurple"
+    ]
+  },
+  {
+    "organization": [
+      "PLASMA @ UMass"
+    ]
+  },
+  {
+    "organization": [
+      "Portable Native Client"
+    ]
+  },
+  {
+    "organization": [
+      "Portland State University"
+    ]
+  },
+  {
+    "organization": [
+      "PostgreSQL Project"
+    ]
+  },
+  {
+    "organization": [
+      "Privly Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "Python Software Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "QEMU"
+    ]
+  },
+  {
+    "organization": [
+      "R Project for Statistical Computing"
+    ]
+  },
+  {
+    "organization": [
+      "Red Hen Lab"
+    ]
+  },
+  {
+    "organization": [
+      "RIOT"
+    ]
+  },
+  {
+    "organization": [
+      "RoboComp"
+    ]
+  },
+  {
+    "organization": [
+      "RouteFlow"
+    ]
+  },
+  {
+    "organization": [
+      "Rspamd spam filtering system"
+    ]
+  },
+  {
+    "organization": [
+      "RTEMS Project"
+    ]
+  },
+  {
+    "organization": [
+      "Ruby"
+    ]
+  },
+  {
+    "organization": [
+      "Ruby on Rails"
+    ]
+  },
+  {
+    "organization": [
+      "Ruby Science Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "Sage Mathematical Software System"
+    ]
+  },
+  {
+    "organization": [
+      "Saros"
+    ]
+  },
+  {
+    "organization": [
+      "Scala Team"
+    ]
+  },
+  {
+    "organization": [
+      "Scilab Enterprises"
+    ]
+  },
+  {
+    "organization": [
+      "strace"
+    ]
+  },
+  {
+    "organization": [
+      "Subsurface"
+    ]
+  },
+  {
+    "organization": [
+      "Sugar Labs"
+    ]
+  },
+  {
+    "organization": [
+      "Sustainable Computing Research Group ( SCoRe )"
+    ]
+  },
+  {
+    "organization": [
+      "Systers, an Anita Borg Institute Community"
+    ]
+  },
+  {
+    "organization": [
+      "TARDIS SN"
+    ]
+  },
+  {
+    "organization": [
+      "TEAMMATES @ National University of Singapore"
+    ]
+  },
+  {
+    "organization": [
+      "The Concord Consortium"
+    ]
+  },
+  {
+    "organization": [
+      "The Eclipse Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "The Fedora Project"
+    ]
+  },
+  {
+    "organization": [
+      "The Honeynet Project"
+    ]
+  },
+  {
+    "organization": [
+      "The MacPorts Project"
+    ]
+  },
+  {
+    "organization": [
+      "The ns-3 Network Simulator Project"
+    ]
+  },
+  {
+    "organization": [
+      "The OpenBSD Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "The OpenCog Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "The Processing Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "The STE||AR Group"
+    ]
+  },
+  {
+    "organization": [
+      "The syslog-ng project"
+    ]
+  },
+  {
+    "organization": [
+      "The Visualization Toolkit"
+    ]
+  },
+  {
+    "organization": [
+      "The Wine Project"
+    ]
+  },
+  {
+    "organization": [
+      "Tox"
+    ]
+  },
+  {
+    "organization": [
+      "Tux4Kids"
+    ]
+  },
+  {
+    "organization": [
+      "University of Nebraska - Helikar Lab"
+    ]
+  },
+  {
+    "organization": [
+      "Wikimedia Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "WSO2"
+    ]
+  },
+  {
+    "organization": [
+      "X.Org Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "XBMC Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "Xiph.Org Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "XMPP Standards Foundation"
+    ]
+  }
+]

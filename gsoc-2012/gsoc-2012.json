@@ -1,0 +1,897 @@
+[
+  {
+    "organization": [
+      "52°North Initiative for Geospatial Open Source Software GmbH"
+    ]
+  },
+  {
+    "organization": [
+      "abiword"
+    ]
+  },
+  {
+    "organization": [
+      "Ankur India"
+    ]
+  },
+  {
+    "organization": [
+      "Apache Software Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "Apertium"
+    ]
+  },
+  {
+    "organization": [
+      "Artica ST ( Pandora FMS )"
+    ]
+  },
+  {
+    "organization": [
+      "ASCEND"
+    ]
+  },
+  {
+    "organization": [
+      "Battle For Wesnoth"
+    ]
+  },
+  {
+    "organization": [
+      "Benetech"
+    ]
+  },
+  {
+    "organization": [
+      "Berkman Center for Internet & Society at Harvard University"
+    ]
+  },
+  {
+    "organization": [
+      "biographer"
+    ]
+  },
+  {
+    "organization": [
+      "Blender Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "Bloomington, IN"
+    ]
+  },
+  {
+    "organization": [
+      "BlueZ"
+    ]
+  },
+  {
+    "organization": [
+      "BOINC project, University of California, Berkeley"
+    ]
+  },
+  {
+    "organization": [
+      "BRL-CAD"
+    ]
+  },
+  {
+    "organization": [
+      "Catroid Project"
+    ]
+  },
+  {
+    "organization": [
+      "CERN SFT"
+    ]
+  },
+  {
+    "organization": [
+      "CGAL - Computational Geometry Algorithms Library "
+    ]
+  },
+  {
+    "organization": [
+      "Climate Code Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "Clojure/dev"
+    ]
+  },
+  {
+    "organization": [
+      "CMUSphinx"
+    ]
+  },
+  {
+    "organization": [
+      "Code for America"
+    ]
+  },
+  {
+    "organization": [
+      "Computational Science and Engineering at TU Wien"
+    ]
+  },
+  {
+    "organization": [
+      "Connexions"
+    ]
+  },
+  {
+    "organization": [
+      "Creative Commons"
+    ]
+  },
+  {
+    "organization": [
+      "Crowdsourcing Biology"
+    ]
+  },
+  {
+    "organization": [
+      "Crystal Space"
+    ]
+  },
+  {
+    "organization": [
+      "DBpedia Spotlight"
+    ]
+  },
+  {
+    "organization": [
+      "Debian Project "
+    ]
+  },
+  {
+    "organization": [
+      "Dept. of Biomedical Informatics, Emory University"
+    ]
+  },
+  {
+    "organization": [
+      "Differ"
+    ]
+  },
+  {
+    "organization": [
+      "Digital Mars"
+    ]
+  },
+  {
+    "organization": [
+      "Django Software Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "DocBook Project"
+    ]
+  },
+  {
+    "organization": [
+      "DragonFly BSD"
+    ]
+  },
+  {
+    "organization": [
+      "Drizzle"
+    ]
+  },
+  {
+    "organization": [
+      "Drupal"
+    ]
+  },
+  {
+    "organization": [
+      "e-cidadania"
+    ]
+  },
+  {
+    "organization": [
+      "Electronic Frontier Foundation/The Tor Project"
+    ]
+  },
+  {
+    "organization": [
+      "ESUG (European Smalltalk User Group)"
+    ]
+  },
+  {
+    "organization": [
+      "Evergreen"
+    ]
+  },
+  {
+    "organization": [
+      "Formal Systems Laboratory at UIUC"
+    ]
+  },
+  {
+    "organization": [
+      "FOSSASIA"
+    ]
+  },
+  {
+    "organization": [
+      "FreeBSD"
+    ]
+  },
+  {
+    "organization": [
+      "Freenet Project Inc"
+    ]
+  },
+  {
+    "organization": [
+      "Freeseer recording and streaming suite"
+    ]
+  },
+  {
+    "organization": [
+      "freifunk"
+    ]
+  },
+  {
+    "organization": [
+      "GCC - GNU Compiler Collection"
+    ]
+  },
+  {
+    "organization": [
+      "Genome Informatics"
+    ]
+  },
+  {
+    "organization": [
+      "Gentoo Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "Gephi Consortium"
+    ]
+  },
+  {
+    "organization": [
+      "GIMP"
+    ]
+  },
+  {
+    "organization": [
+      "Git"
+    ]
+  },
+  {
+    "organization": [
+      "GNOME"
+    ]
+  },
+  {
+    "organization": [
+      "GNU Project"
+    ]
+  },
+  {
+    "organization": [
+      "Google Open Source Programs Office"
+    ]
+  },
+  {
+    "organization": [
+      "Grassroots DICOM"
+    ]
+  },
+  {
+    "organization": [
+      "GStreamer"
+    ]
+  },
+  {
+    "organization": [
+      "Haiku"
+    ]
+  },
+  {
+    "organization": [
+      "haskell.org"
+    ]
+  },
+  {
+    "organization": [
+      "Hedgewars Project"
+    ]
+  },
+  {
+    "organization": [
+      "HelenOS group at Department of Distributed and Dependable Systems, Charles University in Prague"
+    ]
+  },
+  {
+    "organization": [
+      "illumos"
+    ]
+  },
+  {
+    "organization": [
+      "Inclusive Design Institute"
+    ]
+  },
+  {
+    "organization": [
+      "Inkscape"
+    ]
+  },
+  {
+    "organization": [
+      "Interface Ecology Lab @ Texas A&M University"
+    ]
+  },
+  {
+    "organization": [
+      "International GeoGebra Institute"
+    ]
+  },
+  {
+    "organization": [
+      "International Neuroinformatics Coordinating Facility"
+    ]
+  },
+  {
+    "organization": [
+      "iPXE"
+    ]
+  },
+  {
+    "organization": [
+      "JBoss Community"
+    ]
+  },
+  {
+    "organization": [
+      "Jikes RVM"
+    ]
+  },
+  {
+    "organization": [
+      "Joomla!"
+    ]
+  },
+  {
+    "organization": [
+      "JRuby"
+    ]
+  },
+  {
+    "organization": [
+      "KDE"
+    ]
+  },
+  {
+    "organization": [
+      "Kernel.org - the Linux Kernel Organization"
+    ]
+  },
+  {
+    "organization": [
+      "Komodo OpenLab"
+    ]
+  },
+  {
+    "organization": [
+      "Learning Unlimited, Inc."
+    ]
+  },
+  {
+    "organization": [
+      "Libav"
+    ]
+  },
+  {
+    "organization": [
+      "LibreOffice"
+    ]
+  },
+  {
+    "organization": [
+      "Liquid Galaxy Project"
+    ]
+  },
+  {
+    "organization": [
+      "Measurement Lab"
+    ]
+  },
+  {
+    "organization": [
+      "Melange"
+    ]
+  },
+  {
+    "organization": [
+      "MetaBrainz Foundation Inc."
+    ]
+  },
+  {
+    "organization": [
+      "Metalink"
+    ]
+  },
+  {
+    "organization": [
+      "MINIX 3"
+    ]
+  },
+  {
+    "organization": [
+      "MIT Center for Mobile Learning @ The Media Lab"
+    ]
+  },
+  {
+    "organization": [
+      "Mixxx DJ Software"
+    ]
+  },
+  {
+    "organization": [
+      "MoinMoin Wiki"
+    ]
+  },
+  {
+    "organization": [
+      "Monkey HTTP Daemon"
+    ]
+  },
+  {
+    "organization": [
+      "Mono Project"
+    ]
+  },
+  {
+    "organization": [
+      "Moodle"
+    ]
+  },
+  {
+    "organization": [
+      "Mozilla"
+    ]
+  },
+  {
+    "organization": [
+      "mySociety"
+    ]
+  },
+  {
+    "organization": [
+      "National Evolutionary Synthesis Center"
+    ]
+  },
+  {
+    "organization": [
+      "National Resource for Network Biology (NRNB)"
+    ]
+  },
+  {
+    "organization": [
+      "Natural User Interface Group"
+    ]
+  },
+  {
+    "organization": [
+      "Network Time"
+    ]
+  },
+  {
+    "organization": [
+      "New Visions for Public Schools"
+    ]
+  },
+  {
+    "organization": [
+      "Ninux.org"
+    ]
+  },
+  {
+    "organization": [
+      "Nmap Security Scanner"
+    ]
+  },
+  {
+    "organization": [
+      "OGDF - Open Graph Drawing Framework"
+    ]
+  },
+  {
+    "organization": [
+      "OGRE (Object-Oriented Graphics Rendering Engine) "
+    ]
+  },
+  {
+    "organization": [
+      "Open Bioinformatics Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "Open Lighting Project"
+    ]
+  },
+  {
+    "organization": [
+      "Open Source Computer Vision Library (OpenCV)"
+    ]
+  },
+  {
+    "organization": [
+      "Opencast Matterhorn "
+    ]
+  },
+  {
+    "organization": [
+      "OpenCog Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "OpenFlowHub"
+    ]
+  },
+  {
+    "organization": [
+      "OpenICC"
+    ]
+  },
+  {
+    "organization": [
+      "OpenImageIO"
+    ]
+  },
+  {
+    "organization": [
+      "OpenIntents"
+    ]
+  },
+  {
+    "organization": [
+      "OpenMRS"
+    ]
+  },
+  {
+    "organization": [
+      "OpenNMS"
+    ]
+  },
+  {
+    "organization": [
+      "OpenStreetMap"
+    ]
+  },
+  {
+    "organization": [
+      "openSUSE"
+    ]
+  },
+  {
+    "organization": [
+      "Openwall"
+    ]
+  },
+  {
+    "organization": [
+      "Orange – Data Mining Fruitful & Fun"
+    ]
+  },
+  {
+    "organization": [
+      "Oregon State University Open Source Lab (OSUOSL)"
+    ]
+  },
+  {
+    "organization": [
+      "OSGeo - Open Source Geospatial Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "OWASP Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "PacketFence"
+    ]
+  },
+  {
+    "organization": [
+      "Parrot Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "phpBB Forum Software"
+    ]
+  },
+  {
+    "organization": [
+      "phpMyAdmin"
+    ]
+  },
+  {
+    "organization": [
+      "Pidgin, Finch, and libpurple"
+    ]
+  },
+  {
+    "organization": [
+      "Point Cloud Library (PCL)"
+    ]
+  },
+  {
+    "organization": [
+      "Portland State University"
+    ]
+  },
+  {
+    "organization": [
+      "PostgreSQL Project"
+    ]
+  },
+  {
+    "organization": [
+      "Processing"
+    ]
+  },
+  {
+    "organization": [
+      "PulseAudio"
+    ]
+  },
+  {
+    "organization": [
+      "Puppet Labs"
+    ]
+  },
+  {
+    "organization": [
+      "Python Software Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "R project for statistical computing"
+    ]
+  },
+  {
+    "organization": [
+      "Raxa"
+    ]
+  },
+  {
+    "organization": [
+      "Review Board"
+    ]
+  },
+  {
+    "organization": [
+      "RooStats"
+    ]
+  },
+  {
+    "organization": [
+      "RTEMS Project"
+    ]
+  },
+  {
+    "organization": [
+      "Sage Mathematical Software System"
+    ]
+  },
+  {
+    "organization": [
+      "Sahana Software Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "Sakai Project"
+    ]
+  },
+  {
+    "organization": [
+      "Samba"
+    ]
+  },
+  {
+    "organization": [
+      "Scala Team"
+    ]
+  },
+  {
+    "organization": [
+      "Scilab"
+    ]
+  },
+  {
+    "organization": [
+      "Scribus"
+    ]
+  },
+  {
+    "organization": [
+      "ScummVM"
+    ]
+  },
+  {
+    "organization": [
+      "Shogun Machine Learning Toolbox"
+    ]
+  },
+  {
+    "organization": [
+      "Sigmah"
+    ]
+  },
+  {
+    "organization": [
+      "SilverStripe"
+    ]
+  },
+  {
+    "organization": [
+      "SimpleCV"
+    ]
+  },
+  {
+    "organization": [
+      "Statistics Online Computational Resource"
+    ]
+  },
+  {
+    "organization": [
+      "Stellarium"
+    ]
+  },
+  {
+    "organization": [
+      "SWIG"
+    ]
+  },
+  {
+    "organization": [
+      "SymPy"
+    ]
+  },
+  {
+    "organization": [
+      "Systers"
+    ]
+  },
+  {
+    "organization": [
+      "The Concord Consortium"
+    ]
+  },
+  {
+    "organization": [
+      "The Eclipse Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "The Fedora Project"
+    ]
+  },
+  {
+    "organization": [
+      "The Gambit Project"
+    ]
+  },
+  {
+    "organization": [
+      "The Honeynet Project"
+    ]
+  },
+  {
+    "organization": [
+      "The Java Pathfinder Team"
+    ]
+  },
+  {
+    "organization": [
+      "The Linux Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "The LLVM Compiler Infrastructure "
+    ]
+  },
+  {
+    "organization": [
+      "The NetBSD Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "The ns-3 Network Simulator Project"
+    ]
+  },
+  {
+    "organization": [
+      "The Outercurve Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "The Wiselib"
+    ]
+  },
+  {
+    "organization": [
+      "Tianocore"
+    ]
+  },
+  {
+    "organization": [
+      "Tux4Kids"
+    ]
+  },
+  {
+    "organization": [
+      "Twitter"
+    ]
+  },
+  {
+    "organization": [
+      "Umit Project"
+    ]
+  },
+  {
+    "organization": [
+      "Unknown Horizons and FIFE"
+    ]
+  },
+  {
+    "organization": [
+      "Wikimedia Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "Wine (a project of Software Freedom Conservancy) "
+    ]
+  },
+  {
+    "organization": [
+      "WorldForge"
+    ]
+  },
+  {
+    "organization": [
+      "Xapian Search Engine Library"
+    ]
+  },
+  {
+    "organization": [
+      "XBMC Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "XMPP Standards Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "XWiki"
+    ]
+  }
+]

@@ -1,0 +1,757 @@
+[
+  {
+    "organization": [
+      "AbiWord"
+    ]
+  },
+  {
+    "organization": [
+      "Apache Software Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "Apertium"
+    ]
+  },
+  {
+    "organization": [
+      "ASCEND"
+    ]
+  },
+  {
+    "organization": [
+      "Battle for Wesnoth"
+    ]
+  },
+  {
+    "organization": [
+      "BeagleBoard.org"
+    ]
+  },
+  {
+    "organization": [
+      "Berkman Center at Harvard University"
+    ]
+  },
+  {
+    "organization": [
+      "BigBlueButton"
+    ]
+  },
+  {
+    "organization": [
+      "Blender Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "BlueZ"
+    ]
+  },
+  {
+    "organization": [
+      "Boost C++ Libraries"
+    ]
+  },
+  {
+    "organization": [
+      "CGAL - Computational Geometry Algorithms Library"
+    ]
+  },
+  {
+    "organization": [
+      "Chromium"
+    ]
+  },
+  {
+    "organization": [
+      "coreboot"
+    ]
+  },
+  {
+    "organization": [
+      "Creative Commons"
+    ]
+  },
+  {
+    "organization": [
+      "Crystal Space"
+    ]
+  },
+  {
+    "organization": [
+      "Debian Project"
+    ]
+  },
+  {
+    "organization": [
+      "Django Software Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "DocBook Project"
+    ]
+  },
+  {
+    "organization": [
+      "Dojo Foundation "
+    ]
+  },
+  {
+    "organization": [
+      "DragonFly BSD"
+    ]
+  },
+  {
+    "organization": [
+      "Dreamwidth Studios"
+    ]
+  },
+  {
+    "organization": [
+      "Drizzle"
+    ]
+  },
+  {
+    "organization": [
+      "Drupal"
+    ]
+  },
+  {
+    "organization": [
+      "DuraSpace"
+    ]
+  },
+  {
+    "organization": [
+      "Etherboot Project"
+    ]
+  },
+  {
+    "organization": [
+      "European Smalltalk User Group (ESUG)"
+    ]
+  },
+  {
+    "organization": [
+      "European Space Agency, The Advanced Concepts Team"
+    ]
+  },
+  {
+    "organization": [
+      "Expert Labs"
+    ]
+  },
+  {
+    "organization": [
+      "Facebook"
+    ]
+  },
+  {
+    "organization": [
+      "FFmpeg"
+    ]
+  },
+  {
+    "organization": [
+      "FreedroidRPG"
+    ]
+  },
+  {
+    "organization": [
+      "Freenet Project Inc"
+    ]
+  },
+  {
+    "organization": [
+      "Freifunk"
+    ]
+  },
+  {
+    "organization": [
+      "GCC, the GNU Compiler Collection"
+    ]
+  },
+  {
+    "organization": [
+      "Geeklog"
+    ]
+  },
+  {
+    "organization": [
+      "GenMAPP, Cytoscape, WikiPathways & Reactome"
+    ]
+  },
+  {
+    "organization": [
+      "Gentoo Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "Gephi NGO"
+    ]
+  },
+  {
+    "organization": [
+      "Git"
+    ]
+  },
+  {
+    "organization": [
+      "GNOME"
+    ]
+  },
+  {
+    "organization": [
+      "GNU Image Manipulation Program - GIMP"
+    ]
+  },
+  {
+    "organization": [
+      "Go OpenOffice"
+    ]
+  },
+  {
+    "organization": [
+      "Google Caja"
+    ]
+  },
+  {
+    "organization": [
+      "Google Open Source Programs Office"
+    ]
+  },
+  {
+    "organization": [
+      "Grameen Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "GStreamer"
+    ]
+  },
+  {
+    "organization": [
+      "Haiku"
+    ]
+  },
+  {
+    "organization": [
+      "haskell.org"
+    ]
+  },
+  {
+    "organization": [
+      "Hugin and panotools"
+    ]
+  },
+  {
+    "organization": [
+      "Inclusive Design Institute"
+    ]
+  },
+  {
+    "organization": [
+      "Inkscape"
+    ]
+  },
+  {
+    "organization": [
+      "International GeoGebra Institute"
+    ]
+  },
+  {
+    "organization": [
+      "Jikes RVM"
+    ]
+  },
+  {
+    "organization": [
+      "KDE"
+    ]
+  },
+  {
+    "organization": [
+      "Kernel.org - the Linux Kernel Organization"
+    ]
+  },
+  {
+    "organization": [
+      "LimeSurvey"
+    ]
+  },
+  {
+    "organization": [
+      "LLVM Compiler Infrastructure"
+    ]
+  },
+  {
+    "organization": [
+      "LXDE Project"
+    ]
+  },
+  {
+    "organization": [
+      "Maemo Community"
+    ]
+  },
+  {
+    "organization": [
+      "Mapnik"
+    ]
+  },
+  {
+    "organization": [
+      "Marine Biological Laboratory Biodiversity Informatics Group-Encyclopedia of Life Project"
+    ]
+  },
+  {
+    "organization": [
+      "Melange"
+    ]
+  },
+  {
+    "organization": [
+      "Mercurial Distributed Version Control System"
+    ]
+  },
+  {
+    "organization": [
+      "MetaBrainz Foundation Inc."
+    ]
+  },
+  {
+    "organization": [
+      "MINIX 3 Group at the VU"
+    ]
+  },
+  {
+    "organization": [
+      "Mixxx Digital DJ"
+    ]
+  },
+  {
+    "organization": [
+      "MoinMoin Wiki"
+    ]
+  },
+  {
+    "organization": [
+      "Mozilla"
+    ]
+  },
+  {
+    "organization": [
+      "Natural User Interface Group (NUI Group)"
+    ]
+  },
+  {
+    "organization": [
+      "NESCent - National Evolutionary Synthesis Center"
+    ]
+  },
+  {
+    "organization": [
+      "Nmap Security Scanner"
+    ]
+  },
+  {
+    "organization": [
+      "OAR"
+    ]
+  },
+  {
+    "organization": [
+      "OMII-UK"
+    ]
+  },
+  {
+    "organization": [
+      "Open Bioinformatics Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "Open Source Computer Vision Library"
+    ]
+  },
+  {
+    "organization": [
+      "OpenAFS"
+    ]
+  },
+  {
+    "organization": [
+      "OPeNDAP, Inc."
+    ]
+  },
+  {
+    "organization": [
+      "OpenICC"
+    ]
+  },
+  {
+    "organization": [
+      "OpenImageIO"
+    ]
+  },
+  {
+    "organization": [
+      "OpenInkpot project"
+    ]
+  },
+  {
+    "organization": [
+      "OpenMRS"
+    ]
+  },
+  {
+    "organization": [
+      "OpenNebula"
+    ]
+  },
+  {
+    "organization": [
+      "OpenStreetMap"
+    ]
+  },
+  {
+    "organization": [
+      "Opticks"
+    ]
+  },
+  {
+    "organization": [
+      "Oregon State University Open Source Lab"
+    ]
+  },
+  {
+    "organization": [
+      "OSGeo - Open Source Geospatial Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "Pardus"
+    ]
+  },
+  {
+    "organization": [
+      "phpMyAdmin"
+    ]
+  },
+  {
+    "organization": [
+      "Pidgin, Finch and libpurple"
+    ]
+  },
+  {
+    "organization": [
+      "Plan 9 from Bell Labs"
+    ]
+  },
+  {
+    "organization": [
+      "Plone Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "PLSE at UW"
+    ]
+  },
+  {
+    "organization": [
+      "Portland State University"
+    ]
+  },
+  {
+    "organization": [
+      "PostgreSQL"
+    ]
+  },
+  {
+    "organization": [
+      "Princeton Center for Information Technology Policy"
+    ]
+  },
+  {
+    "organization": [
+      "Puppet (Reductive Labs)"
+    ]
+  },
+  {
+    "organization": [
+      "Python Software Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "QEMU development team"
+    ]
+  },
+  {
+    "organization": [
+      "R Project for Statistical Computing"
+    ]
+  },
+  {
+    "organization": [
+      "Review Board"
+    ]
+  },
+  {
+    "organization": [
+      "Rockbox"
+    ]
+  },
+  {
+    "organization": [
+      "RTEMS Project"
+    ]
+  },
+  {
+    "organization": [
+      "Sahana Software Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "Sakai Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "Samba"
+    ]
+  },
+  {
+    "organization": [
+      "Scilab Consortium/Digiteo Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "ScummVM"
+    ]
+  },
+  {
+    "organization": [
+      "Selenium"
+    ]
+  },
+  {
+    "organization": [
+      "SharpDevelop"
+    ]
+  },
+  {
+    "organization": [
+      "Simple DirectMedia Layer"
+    ]
+  },
+  {
+    "organization": [
+      "SIP Communicator"
+    ]
+  },
+  {
+    "organization": [
+      "StatusNet"
+    ]
+  },
+  {
+    "organization": [
+      "Sugar Labs"
+    ]
+  },
+  {
+    "organization": [
+      "Sunlight Labs"
+    ]
+  },
+  {
+    "organization": [
+      "Systers: Women in Computing"
+    ]
+  },
+  {
+    "organization": [
+      "Tahoe-LAFS"
+    ]
+  },
+  {
+    "organization": [
+      "Tcl/Tk Community"
+    ]
+  },
+  {
+    "organization": [
+      "The Asterisk Project"
+    ]
+  },
+  {
+    "organization": [
+      "The Codehaus"
+    ]
+  },
+  {
+    "organization": [
+      "The Eclipse Foundation "
+    ]
+  },
+  {
+    "organization": [
+      "The FreeBSD Project"
+    ]
+  },
+  {
+    "organization": [
+      "The Globus Alliance"
+    ]
+  },
+  {
+    "organization": [
+      "The GNU Project"
+    ]
+  },
+  {
+    "organization": [
+      "The Honeynet Project"
+    ]
+  },
+  {
+    "organization": [
+      "The Java Pathfinder Team"
+    ]
+  },
+  {
+    "organization": [
+      "The Linux Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "The MacPorts Project"
+    ]
+  },
+  {
+    "organization": [
+      "The Mono Project"
+    ]
+  },
+  {
+    "organization": [
+      "The NetBSD Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "The ns-3 Network Simulator Project"
+    ]
+  },
+  {
+    "organization": [
+      "The NTP Forum"
+    ]
+  },
+  {
+    "organization": [
+      "The Perl Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "The Tor Project/Electronic Frontier Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "The Wine Project"
+    ]
+  },
+  {
+    "organization": [
+      "Thousand Parsec"
+    ]
+  },
+  {
+    "organization": [
+      "Tux4Kids"
+    ]
+  },
+  {
+    "organization": [
+      "TYPO3 Association"
+    ]
+  },
+  {
+    "organization": [
+      "Ubuntu"
+    ]
+  },
+  {
+    "organization": [
+      "Ushahidi"
+    ]
+  },
+  {
+    "organization": [
+      "VideoLAN"
+    ]
+  },
+  {
+    "organization": [
+      "Wikimedia Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "WordPress"
+    ]
+  },
+  {
+    "organization": [
+      "WorldForge"
+    ]
+  },
+  {
+    "organization": [
+      "wxWidgets"
+    ]
+  },
+  {
+    "organization": [
+      "X.Org"
+    ]
+  },
+  {
+    "organization": [
+      "xen.org"
+    ]
+  },
+  {
+    "organization": [
+      "XMMS2"
+    ]
+  },
+  {
+    "organization": [
+      "XMPP Standards Foundation"
+    ]
+  },
+  {
+    "organization": [
+      "YafaRay (Yet Another Free Raytracer)"
+    ]
+  },
+  {
+    "organization": [
+      "École Polytechnique Fédérale de Lausanne, Scala team"
+    ]
+  }
+]
