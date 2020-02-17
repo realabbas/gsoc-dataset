@@ -1,4 +1,4 @@
-# GSOC-Dataset [JSON Data]
+# GSOC-Dataset [JSON Data] ⛈ 
 
 Repository containing the list of organizations [JSON Data] that took part in GSOC Over the span of 10 years.
 
